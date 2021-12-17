@@ -1,0 +1,25 @@
+.top {
+  background-color: white;
+  padding-bottom: 1rem;
+  margin: 1rem;
+  border-radius: 1rem;
+}
+.colored {
+  height: 16px;
+  background-color: #4c3f91;
+  border-top-left-radius: 1rem;
+  border-top-right-radius: 1rem;
+}
+.header {
+  margin: 1rem 3rem;
+}
+
+.header h1 {
+  margin: 2rem 1rem;
+}
+.header p {
+  margin: auto 1rem;
+
+  margin-top: 3rem;
+  font-size: large;
+}

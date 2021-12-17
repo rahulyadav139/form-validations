@@ -1,0 +1,14 @@
+.card {
+  background-color: white;
+  padding: 2rem;
+  border-radius: 1rem;
+  margin: 1rem;
+}
+
+.highlight {
+  padding: 1rem;
+}
+
+.invalid-card {
+  background-color: #ffe5e5;
+}
