@@ -1,5 +1,5 @@
 import styles from './MainPage.module.css';
-import Card from './Card';
+
 import Form from './Form';
 import React, { useState } from 'react';
 
