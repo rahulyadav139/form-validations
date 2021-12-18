@@ -4,12 +4,11 @@
   box-sizing: border-box;
   margin: 0;
   padding: 0;
-
   font-family: 'Roboto', sans-serif;
 }
 body {
   width: 100%;
-  max-width: 60vw;
+  max-width: 700px;
   margin: auto;
   background-color: #ede3ff;
   color: black;
