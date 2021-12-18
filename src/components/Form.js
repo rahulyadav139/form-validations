@@ -23,7 +23,7 @@ const Form = props => {
   };
   const ageChangeHandler = e => {
     setAge(e.target.value);
-    if (!e.target.value || +e.target.value < 1) setAgeIsValid(false);
+    if (!e.target.value || Number(e.target.value) < 1) setAgeIsValid(false);
     else setAgeIsValid(true);
   };
 
