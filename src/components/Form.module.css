@@ -8,16 +8,15 @@ button {
   margin: 1rem;
   border-radius: 0.5rem;
   cursor: pointer;
-  margin-left: 4rem;
+  margin-left: 2rem;
 }
 .input,
 .label {
   display: block;
-  margin: 1rem;
+
   color: #171717;
 }
 .label {
-  font-size: large;
   margin-bottom: 2rem;
 }
 
@@ -25,7 +24,7 @@ button {
   border: none;
   outline: none;
   border-bottom: solid 2px grey;
-  font-size: 1rem;
+
   padding-bottom: 0.5rem;
   padding-left: 0;
   padding-right: 0;
@@ -33,9 +32,8 @@ button {
   font-size: large;
 }
 .warning {
-  font-size: large;
   color: #dd4a48;
-  margin: 1rem;
+  margin: 1rem auto;
 }
 .invalid-input {
   border-bottom: 2px solid #dd4a48;
